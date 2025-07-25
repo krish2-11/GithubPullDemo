@@ -1,5 +1,6 @@
 public class Demo{
     public static void main(String[] args){
+
         int height = 5; 
         printPyramid(height);
     }
@@ -17,5 +18,7 @@ public class Demo{
             // New line after each row
             System.out.println();
         }
+        System.out.println("Hello!!");
+        System.out.println("Editor: Vatsal");
     }
 }
