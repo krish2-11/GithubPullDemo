@@ -18,7 +18,6 @@ public class Demo{
             // New line after each row
             System.out.println();
         }
-        System.out.println("Hello!!");
         System.out.println("Editor: Krish");
     }
 }
